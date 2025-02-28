@@ -21,19 +21,32 @@ namespace Days_2
 
             // kullanıcıddan veri alımı
             Console.WriteLine("Lütfen adınızı giriniz!");
-            string name = Console.ReadLine();
+            //string name = Console.ReadLine();
 
             Console.WriteLine("Lütfen yaşınızı giriniz!");
-            string stAge = Console.ReadLine();
+            //string stAge = Console.ReadLine();
 
-            User user = new User();
-            user.UserControl(name, stAge);
+            //User user = new User();
+            //user.UserControl(name, stAge);
 
             // List
             string[] users = { "Zehra", "Ayşe", "Mehmet", "Ahmet" };
             Action<int> action = new Action<int>();
-            UseList useList = new UseList();
-            useList.Call();
+            //UseList useList = new UseList();
+            //useList.Call();
+
+            UserResult userResult = new UserResult();
+
+            User u1 = new User();
+            u1.name = "Serkan";
+            u1.surname = "Bilmem";
+            u1.email = "serkan@mail.com";
+            u1.password = "1234y";
+            u1.status = true;
+
+            userResult.Add(u1);
+            userResult.Report();
+
 
         }
     }
