@@ -1,0 +1,15 @@
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/bin/Debug/net7.0/Days_2
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/bin/Debug/net7.0/Days_2.deps.json
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/bin/Debug/net7.0/Days_2.runtimeconfig.json
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/bin/Debug/net7.0/Days_2.dll
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/bin/Debug/net7.0/Days_2.pdb
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.csproj.AssemblyReference.cache
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.AssemblyInfoInputs.cache
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.AssemblyInfo.cs
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.csproj.CoreCompileInputs.cache
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.dll
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/refint/Days_2.dll
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.pdb
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/Days_2.genruntimeconfig.cache
+/Users/hakan/Documents/architect_c_sharp_2025_temel/Days_2/Days_2/obj/Debug/net7.0/ref/Days_2.dll
