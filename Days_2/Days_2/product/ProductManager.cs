@@ -10,6 +10,17 @@ namespace Days_2
 		// update
 		// list
 
+		// Comment line
+		/*
+		 * Multi
+		 * line
+		 * comment
+		*/
+		public void UserDataNameUpdate()
+		{
+
+		}
+
 		public void ProductAdd( Product product )
 		{
 

@@ -36,7 +36,7 @@ namespace Days_2
 		{
 			foreach(User item in users)
 			{
-				Console.WriteLine($"{item.name} {item.surname}");
+				Console.WriteLine($"{item}");
 			}
 		}
 

@@ -8,6 +8,13 @@ namespace Days_2
 		public string email;
 		public string password;
 		public bool status;
-	}
+
+        public override string ToString()
+        {
+			string item = $"{name} {surname} {email} {password} {status}";
+			return item;
+        }
+
+    }
 }
 
